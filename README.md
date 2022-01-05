@@ -11,9 +11,7 @@ This repository consists of files required for end to end implementation and dep
   * [Technologies Used](#technologies-used)
 
 ## App Link
-If you want to view the deployed model, click on the following link:<br />
-[ https://ml-senti-analysis.herokuapp.com/]( https://ml-senti-analysis.herokuapp.com/)
-
+If you want to view the deployed model, click on the following [link](https://sentiment-analysis-101803674.herokuapp.com/)
 
 ## About the App
 The Restaurant Reviews Sentiment Analysis is a Flask web application which classifies/detects sentiments of customers as positive or negative sentiments. In this ML-NLP model, restaurant reviews dataset from Kaggle (also available in UCI ML Library) was used to perform Sentiment Analysis using Stemming and Bag of Words model to classify reviews into  sentiments. Since, the data is fairly balanced, we are only concerned with accuracy_score. From various Classifiers, highest accuracy achieved was 81% with cross_val_score of 79.4%.
